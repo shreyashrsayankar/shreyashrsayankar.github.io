@@ -12,8 +12,8 @@ const CONFIG = {
     phone: "(202) 427-1674",
     address: "Washington, DC, USA",
     bio: "Experienced construction project manager with over 15 years in commercial and residential construction. Specializing in large-scale developments, renovation projects, and sustainable building practices.",
-    experience: "15+ Years",
-    projectsCompleted: "120+",
+    experience: "10+ Years",
+    projectsCompleted: "17+",
     socialLinks: {
       linkedin: "https://www.linkedin.com/in/shreyash-sayankar-cmit/"
     }
@@ -296,8 +296,8 @@ const CONFIG = {
     }
   ],
 
-  // Services Offered
-  services: [
+  // Skill Offered
+  Skills: [
     {
       title: "Project Planning & Management",
       icon: "📋"
