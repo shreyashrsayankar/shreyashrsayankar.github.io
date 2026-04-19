@@ -11,7 +11,7 @@ const CONFIG = {
     email: "shreyashrsayankar@gmail.com",
     phone: "(202) 427-1674",
     address: "Washington, DC, USA",
-    bio: "Experienced construction project manager with over 15 years in commercial and residential construction. Specializing in large-scale developments, renovation projects, and sustainable building practices.",
+    bio: "Experienced construction project manager with over 10 years in commercial and residential construction. Specializing in large-scale developments, renovation projects, and sustainable building practices.",
     experience: "10+ Years",
     projectsCompleted: "22+",
     socialLinks: {
