@@ -6,7 +6,7 @@
 const CONFIG = {
   // Personal Information
   personalInfo: {
-    name: "Shreyash Sayankar",
+    name: "Shreyash R. Sayankar",
     title: "Senior Construction Project Manager",
     email: "shreyashrsayankar@gmail.com",
     phone: "(202) 427-1674",
