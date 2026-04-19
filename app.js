@@ -32,12 +32,12 @@ const CONFIG = {
       value: "$3.2M",
       duration: "2019-2020",
       images: [
-        "src/Hood_College_Pictures/IMG_2060.jpg",
-        "src/Hood_College_Pictures/IMG_2061.jpg",
-        "src/Hood_College_Pictures/IMG_2062.jpg",
-        "src/Hood_College_Pictures/IMG_2063.jpg",
-        "src/Hood_College_Pictures/IMG_2064.jpg",
-        "src/Hood_College_Pictures/IMG_2065.jpg"
+        "src/1_Hood_College_Pictures/IMG_2060.jpg",
+        "src/1_Hood_College_Pictures/IMG_2061.jpg",
+        "src/1_Hood_College_Pictures/IMG_2062.jpg",
+        "src/1_Hood_College_Pictures/IMG_2063.jpg",
+        "src/1_Hood_College_Pictures/IMG_2064.jpg",
+        "src/1_Hood_College_Pictures/IMG_2065.jpg"
       ]
     },
     {
