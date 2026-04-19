@@ -13,7 +13,7 @@ const CONFIG = {
     address: "Washington, DC, USA",
     bio: "Experienced construction project manager with over 15 years in commercial and residential construction. Specializing in large-scale developments, renovation projects, and sustainable building practices.",
     experience: "10+ Years",
-    projectsCompleted: "17+",
+    projectsCompleted: "22+",
     socialLinks: {
       linkedin: "https://www.linkedin.com/in/shreyash-sayankar-cmit/"
     }
@@ -28,10 +28,16 @@ const CONFIG = {
       client: "Hood College",
       completionDate: "2020",
       projectType: "Dorms",
+      role: "Assistant Project Manager",
       value: "$3.2M",
       duration: "2019-2020",
       images: [
-        "https://pplx-res.cloudinary.com/image/upload/v1755913939/pplx_project_search_images/eb600c1433b789b15af8366220169377d7cfc67e.png"
+        "src/Hood_College_Pictures/IMG_2060.jpg",
+        "src/Hood_College_Pictures/IMG_2061.jpg",
+        "src/Hood_College_Pictures/IMG_2062.jpg",
+        "src/Hood_College_Pictures/IMG_2063.jpg",
+        "src/Hood_College_Pictures/IMG_2064.jpg",
+        "src/Hood_College_Pictures/IMG_2065.jpg"
       ]
     },
     {
@@ -41,6 +47,7 @@ const CONFIG = {
       client: "City School District",
       completionDate: "2020",
       projectType: "Educational",
+      role: "Assistant Project Manager",
       value: "$3.1M",
       duration: "2019-2020",
       images: [
@@ -54,6 +61,7 @@ const CONFIG = {
       client: "WMATA",
       completionDate: "2021",
       projectType: "Government",
+      role: "Assistant Project Manager",
       value: "$4.0M",
       duration: "2020-2021",
       images: [
@@ -67,6 +75,7 @@ const CONFIG = {
       client: "DCPS",
       completionDate: "2021",
       projectType: "Educational",
+      role: "Assistant Project Manager",
       value: "$7.5M",
       duration: "2020-2021",
       images: [
@@ -80,6 +89,7 @@ const CONFIG = {
       client: "Wink Hotels",
       completionDate: "2020",
       projectType: "Hospitality",
+      role: "Assistant Project Manager",
       value: "$2.1M",
       duration: "2019-2020",
       images: [
@@ -93,6 +103,7 @@ const CONFIG = {
       client: "Private Club",
       completionDate: "2020",
       projectType: "Recreation",
+      role: "Assistant Project Manager",
       value: "$1.2M",
       duration: "2019-2020",
       images: [
@@ -104,10 +115,11 @@ const CONFIG = {
       title: "Capitol Jewish Museum",
       description: "Restoration of a historic synagogue building and transformation into a museum including structural repairs, finishes and historic restoration work.",
       client: "Capitol Jewish Museum",
-      completionDate: "2021",
+      completionDate: "2023",
       projectType: "Museum",
+      role: "Project Manager",
       value: "$1.1M",
-      duration: "2021",
+      duration: "2021-2023",
       images: [
         "https://pplx-res.cloudinary.com/image/upload/v1755102019/pplx_project_search_images/c40cafc1f1282afb618ac1e55251369e2e4672cd.png"
       ]
@@ -119,6 +131,7 @@ const CONFIG = {
       client: "MedStar Health",
       completionDate: "2021",
       projectType: "Healthcare",
+      role: "Project Manager",
       value: "$225k",
       duration: "2021",
       images: [
@@ -132,6 +145,7 @@ const CONFIG = {
       client: "GSA",
       completionDate: "2022",
       projectType: "Government",
+      role: "Project Manager",
       value: "$3.5M",
       duration: "2021-2022",
       images: [
@@ -145,6 +159,7 @@ const CONFIG = {
       client: "District Schools",
       completionDate: "2021",
       projectType: "Educational",
+      role: "Project Manager",
       value: "$4.3M",
       duration: "2019-2021",
       images: [
@@ -158,6 +173,7 @@ const CONFIG = {
       client: "District Schools",
       completionDate: "2024",
       projectType: "Educational",
+      role: "Project Manager",
       value: "$3.5M",
       duration: "2022-2024",
       images: [
@@ -171,7 +187,8 @@ const CONFIG = {
       client: "District Schools",
       completionDate: "2023",
       projectType: "Educational",
-      value: "$3.3M",
+      role: "Project Manager",
+      value: "$5.3M",
       duration: "2020-2023",
       images: [
         "https://pplx-res.cloudinary.com/image/upload/v1755913939/pplx_project_search_images/505163f56f412b5a88568e0ce40ece1a571d5a6f.png"
@@ -184,6 +201,7 @@ const CONFIG = {
       client: "Private Development",
       completionDate: "2023",
       projectType: "Condos",
+      role: "Project Manager",
       value: "$1.2M",
       duration: "2022-2023",
       images: [
@@ -193,10 +211,11 @@ const CONFIG = {
     {
       id: 14,
       title: "Park Morton",
-      description: "Comprehensive rehabilitation and new residential construction including framing, finishes and special detailing.",
+      description: "A Premium condo project in NW Washington DC. DCI’s scope of work included Interior wall framing, drywall installation and finishing throughout the units, as well as drywall ceilings. The project also featured custom curved walls and ceilings in the lobby, adding a distinctive architectural touch.",
       client: "Community Development",
       completionDate: "2025",
       projectType: "Residential",
+      role: "Project Manager",
       value: "$3.8M",
       duration: "2023-2025",
       images: [
@@ -206,10 +225,11 @@ const CONFIG = {
     {
       id: 15,
       title: "Howard University Renovation",
-      description: "Minor but important structural repairs and attic truss work performed at Howard University campus building.",
+      description: "A small attic truss repair work performed at Howard University.",
       client: "Howard University",
       completionDate: "2024",
       projectType: "Educational",
+      role: "Project Manager",
       value: "$60k",
       duration: "2024",
       images: [
@@ -219,10 +239,11 @@ const CONFIG = {
     {
       id: 16,
       title: "Smothers ES",
-      description: "Elementary school renovation with classroom upgrades, new finishes and systems improvements.",
+      description: "School in DC where DCI performed renovation work. This is my First Estimation project over million Dollars. DCI was responsible for Interior exterior metal framing, insulation, Drywall, Finishing and acosutic ceiling with Acoustic ceiling specialties.",
       client: "District Schools",
       completionDate: "2021",
       projectType: "Educational",
+      role: "Estimator",
       value: "$2.1M",
       duration: "2021",
       images: [
@@ -236,6 +257,7 @@ const CONFIG = {
       client: "Parks & Rec",
       completionDate: "2021",
       projectType: "Recreation",
+      role: "Estimator",
       value: "$850k",
       duration: "2021",
       images: [
@@ -249,6 +271,7 @@ const CONFIG = {
       client: "Community Health",
       completionDate: "2022",
       projectType: "Healthcare",
+      role: "Estimator",
       value: "$3.6M",
       duration: "2022",
       images: [
@@ -262,6 +285,7 @@ const CONFIG = {
       client: "District Schools",
       completionDate: "2026",
       projectType: "Educational",
+      role: "Senior Project Manager",
       value: "$3.1M",
       duration: "2025-2026",
       images: [
@@ -275,6 +299,7 @@ const CONFIG = {
       client: "District Schools",
       completionDate: "2026",
       projectType: "Educational",
+      role: "Senior Project Manager",
       value: "$1.5M",
       duration: "2025-2026",
       images: [
@@ -288,16 +313,31 @@ const CONFIG = {
       client: "Private Developer",
       completionDate: "2027",
       projectType: "Residential",
+      role: "Senior Project Manager",
       value: "$5.2M",
       duration: "2026-2027",
+      images: [
+        "https://pplx-res.cloudinary.com/image/upload/v1755913939/pplx_project_search_images/d61e91801e80cca5badf843388b85435ebb23b4e.png"
+      ]
+    },
+    {
+      id: 22,
+      title: "Dorothy Heights ES",
+      description: "Multiple Award-Winning School – Washington, DC. This project comprised three buildings: Two existing, and one entirely new building. Our scope included interior and exterior wall framing, hanging, insulation, and finishing. We installed acoustic ceilings, specialty turf panel ceilings, and deck spray foam insulation. Additional work included special acoustic wall panels, expansion joints, and level 5 finishing for artwork as well as door frames, hardware and restroom accessories installation.",
+      client: "Private Developer",
+      completionDate: "2024",
+      projectType: "Residential",
+      role: "Project Manager",
+      value: "$3.5M",
+      duration: "2023-2024",
       images: [
         "https://pplx-res.cloudinary.com/image/upload/v1755913939/pplx_project_search_images/d61e91801e80cca5badf843388b85435ebb23b4e.png"
       ]
     }
   ],
 
-  // Skill Offered
-  Skills: [
+  // Services Offered
+  services: [
     {
       title: "Project Planning & Management",
       icon: "📋"
@@ -344,7 +384,7 @@ const CONFIG = {
   skills: [
     "Project Management Professional (PMP)",
     "Construction Management",
-    "AutoCAD & Project Software",
+    "AutoCAD & Project Management Software",
     "Building Codes & Regulations",
     "Contract Negotiation",
     "Risk Management",
@@ -646,6 +686,10 @@ class PortfolioApp {
     if (typeEl) typeEl.textContent = project.projectType;
     if (valueEl) valueEl.textContent = project.value;
     if (durationEl) durationEl.textContent = project.duration;
+
+    // Set role
+    const roleEl = document.getElementById('modal-role');
+    if (roleEl) roleEl.textContent = project.role || '';
 
     // Set main image
     const mainImage = document.getElementById('modal-main-image');
